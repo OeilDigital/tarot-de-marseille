@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tarot-de-marseille/static/css/main.d1707bb1.css",
+    "main.css": "/tarot-de-marseille/static/css/main.4f62d30c.css",
     "main.js": "/tarot-de-marseille/static/js/main.f8d14ca3.js",
     "static/js/453.ff3327ec.chunk.js": "/tarot-de-marseille/static/js/453.ff3327ec.chunk.js",
     "static/media/stars.jpg": "/tarot-de-marseille/static/media/stars.9e1373a86fb173dc23a3.jpg",
     "static/media/pub.jpg": "/tarot-de-marseille/static/media/pub.5e4af461347771351001.jpg",
     "static/media/dos.png": "/tarot-de-marseille/static/media/dos.508f90f66f2233b588f1.png",
     "index.html": "/tarot-de-marseille/index.html",
-    "main.d1707bb1.css.map": "/tarot-de-marseille/static/css/main.d1707bb1.css.map",
+    "main.4f62d30c.css.map": "/tarot-de-marseille/static/css/main.4f62d30c.css.map",
     "main.f8d14ca3.js.map": "/tarot-de-marseille/static/js/main.f8d14ca3.js.map",
     "453.ff3327ec.chunk.js.map": "/tarot-de-marseille/static/js/453.ff3327ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1707bb1.css",
+    "static/css/main.4f62d30c.css",
     "static/js/main.f8d14ca3.js"
   ]
 }
